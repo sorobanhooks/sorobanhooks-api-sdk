@@ -1,6 +1,6 @@
 {
   "name": "sorobanhooks-api-sdk",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A JavaScript library for watching Soroban smart contracts and simplifying Stellar blockchain transactions.",
   "type": "module",
   "main": "./dist/index.js",
