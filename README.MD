@@ -1,6 +1,6 @@
 ![Logo](https://www.sorobanhooks.xyz/logo.jpeg)
 
-# sorobanhooks-api-sdk
+# Sorobonhooks Api Sdk
 
 A lightweight JavaScript SDK for interacting with Soroban-based services.  
 This SDK helps you easily manage asset alerts, wallet transactions, contract watchers, balance alerts, asset price history, contract transactions, and contract storage.
