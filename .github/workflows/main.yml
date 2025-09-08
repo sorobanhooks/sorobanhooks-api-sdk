@@ -21,4 +21,4 @@ jobs:
           NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
 
       - name: NPM Publish
-        run: npm publish
+        run: npm publish --access public
