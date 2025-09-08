@@ -13,3 +13,5 @@ node_modules/
 
 # Ignore build cache
 dist/types/*.tsbuildinfo
+
+.github/
