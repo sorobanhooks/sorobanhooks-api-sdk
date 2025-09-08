@@ -1,4 +1,4 @@
-![Logo](https://www.sorobanhooks.xyz/SHLOGO.png)
+![Logo](https://www.sorobanhooks.xyz/logo.jpeg)
 
 # sorobanhooks-api-sdk
 
